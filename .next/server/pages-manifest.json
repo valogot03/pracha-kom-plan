@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/add-project": "pages/add-project.js",
+  "/api/projects/[id]": "pages/api/projects/[id].js",
+  "/project/[id]": "pages/project/[id].js",
+  "/api/villages/[id]/projects": "pages/api/villages/[id]/projects.js",
+  "/village/[id]": "pages/village/[id].js"
+}
